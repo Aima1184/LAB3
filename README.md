@@ -98,8 +98,7 @@ T5 (Text-To-Text Transfer Transformer) — это универсальная м�
 
 Качество генерации подтверждено метриками chrF(++), Perplexity, Distinct-n и Novelty, а также экспертной оценкой через LLM-as-judge.
 
-![image](https://github.com/user-attachments/assets/cf4e479a-dcde-47dd-bfc5-cc79f4248b1d)
-
+![image](https://github.com/user-attachments/assets/6a50f9eb-bfda-47b3-91a5-595626bf32fe)
 
 Рисунок 2 - Примеры сгенерированных текстов
 
